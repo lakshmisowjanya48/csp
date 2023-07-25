@@ -1,0 +1,83 @@
+.bannerBgimage{
+    height: 100vh;
+    background: url("/images/home1.jpg");
+    background-size: cover;
+    position: relative;
+}
+.bannerText{
+    text-align: center;
+    position: relative;
+    top: 60%;
+    left:90%;
+   transform:translate(-90%,150%);
+    background-color: blanchedalmond;
+   
+}
+.bannerTitle{
+    font-size: 2rem;
+    text-align: left;
+    background-color: rgba(58, 1, 1, 0.279);
+}
+.bannerDesc{
+    font-size: 1rem;
+    text-align: left;
+    background-color: rgb(123, 16, 223);
+}
+.card{
+    cursor: pointer;
+}
+.card:hover{
+    background-color: rgba(28, 28, 2, 0.59);
+    
+}
+.BIcon{
+width:100%;
+text-align:center;
+font-size:40px;
+}
+.img-fluid:hover{
+    border:10px solid rgb(22, 12, 12);
+}
+.card-img-top{
+    padding: 10% 10% 10% 10%;
+    height: 1vh;
+}
+
+.card-title{
+    background-color: rgba(17, 193, 143, 0.278);
+}
+.Bghappy{
+    
+    border: 4px solid rgb(77, 39, 6);
+}
+.form-label{
+    color: rgb(17, 39, 235);
+}
+.sowjuBghappy{
+    background-color: rgba(89, 85, 8, 0.501);
+    border: 4px solid rgb(77, 39, 6);
+}
+.Bgnice{
+    background-color: rgba(97, 95, 89, 0.819);
+    border: 4px solid rgb(77, 39, 6);
+}
+.myworld{
+    
+    background-color: rgb(42, 165, 165);
+}
+.githubtext{
+    background-color: brown;
+}
+.col-md-3{
+    background-color: blueviolet;
+}
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
+
+
+ 
